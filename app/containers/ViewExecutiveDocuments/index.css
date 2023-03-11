@@ -1,0 +1,43 @@
+.setCustomInput label {
+  color: #000 !important;
+}
+.setCustomInput input {
+  color: #000;
+}
+
+.setCustomInput1 div {
+  color: #000;
+}
+
+.setCustomInput1 label {
+  color: #000 !important;
+}
+
+.setCustomInput textarea {
+  color: #000;
+}
+table.editDocuments thead {
+  background-color: rgb(226, 226, 226);
+}
+table.editDocuments thead tr {
+  height: 40px;
+}
+table.editDocuments thead tr th {
+  text-align: center !important;
+  /* padding: 4px 15px !important */
+}
+
+/* tr th:not(last-child) {
+    border-right: 1px solid;
+} */
+table.editDocuments tbody tr td {
+  /* padding-left: 4px 15px !important; */
+}
+
+table.editDocuments tbody tr td.CustomSTT {
+  text-align: center;
+}
+
+.setCustomCheckbox span {
+  color: #000 !important;
+}

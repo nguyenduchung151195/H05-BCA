@@ -1,0 +1,4 @@
+.e-btn-icon, .e-close, .e-edit{
+    display: none !important;
+    z-index: -999 !important
+}

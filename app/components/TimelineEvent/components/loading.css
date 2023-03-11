@@ -1,0 +1,30 @@
+.loading-shading-mui {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.loading-icon-mui {
+  position: absolute;
+  font-size: 20px;
+  top: calc(45% - 10px);
+  left: calc(50% - 10px);
+}
+.my-react-select .Select-control:before {
+  color: #aaa;
+  content: 'Flavors';
+  line-height: 34px;
+  padding-left: 10px;
+  padding-right: 10px;
+  position: absolute;
+}
+
+.my-react-select .Select-placeholder + .Select-input,
+.my-react-select .Select-input:first-child,
+.my-react-select .Select-value:first-child {
+  margin-left: 70px;
+}

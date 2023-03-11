@@ -1,0 +1,22 @@
+
+.btnFile{
+    border: 1px solid;
+    padding: 2px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #3c4858;
+
+}
+.iconsScan{
+    justify-content: end;
+    display: flex;
+    cursor: pointer;
+}
+  .nameFileUpload{
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+
+}
+
+

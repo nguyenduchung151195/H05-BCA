@@ -1,0 +1,25 @@
+{
+  "task.ConfigTask.cauhinhcongviecduan": "Cấu hình công viêc/dự án",
+  "task.ConfigTask.cauhinhkehoach": "Cấu hình kế hoạch",
+  "task.ConfigTask.trangthaikhoitao": "Trạng thái khởi tạo",
+  "task.ConfigTask.trangthaiduocthem": "Trạng thái được thêm",
+  "task.ConfigTask.trangthaihoanthanh": "Trạng thái hoàn thành",
+  "task.ConfigTask.trangthaithatbai": "Trạng thái thất bại",
+  "task.ConfigTask.suatrangthai": "Sửa trạng thái",
+  "task.ConfigTask.themtrangthai": "Thêm mới trạng thái",
+  "task.ConfigTask.themmoi": "Thêm mới",
+  "task.ConfigTask.tentrangthai": "Tên trạng thái",
+  "task.ConfigTask.code": "Code",
+  "task.ConfigTask.mausac": "Màu sắc",
+
+  
+  "task.ConfigTask.planer": "Trạng thái kế hoạch",
+  "task.ConfigTask.kanban": "Trạng thái kanban",
+  "task.ConfigTask.tasktype": "Trạng thái loại công việc",
+  "task.ConfigTask.gantt": "Cấu hình Gantt",
+  "task.ConfigTask.statusname": "Tên trạng thái",
+  "task.ConfigTask.notempty": "Trường không được bỏ trống",
+  "task.ConfigTask.color": "Màu sắc",
+  "task.ConfigTask.nopermission": "Đồng chí không có quyền cho chức năng này",
+  "task.ConfigTask.askdelete":"Đồng chí chắc chắn muốn xóa ?"
+}

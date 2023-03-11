@@ -1,0 +1,16 @@
+{
+    "app.container.PersonalPage.hrrecords": "Hồ sơ nhân sự",
+    "app.container.PersonalPage.humanresources": "Định biên nhân sự",
+    "app.container.PersonalPage.yearlicensemanagement": "Quản lý phép năm",
+    "app.container.PersonalPage.hrreports": "Báo cáo nhân sự",
+    "app.container.PersonalPage.increasesordecreases": "Biến động tăng giảm",
+    "app.container.PersonalPage.timekeeping": "Bảng chấm công",
+    "app.container.PersonalPage.managesalary": "Bảng chốt công",
+    "app.container.PersonalPage.salary": "Công lương",
+    "app.container.PersonalPage.ottime": "Quản lý thời gian OT",
+    "app.container.PersonalPage.takeleave": "Quản lý nghỉ phép",
+    "app.container.PersonalPage.recruitment": "Đợt tuyển dụng",
+    "app.container.PersonalPage.managerecruitmentneeds": "Quản lý nhu cầu tuyển dụng",
+    "app.container.PersonalPage.training": "Khóa đào tạo",
+    "app.container.PersonalPage.manageeducate": "Quản lý đào tạo"
+}

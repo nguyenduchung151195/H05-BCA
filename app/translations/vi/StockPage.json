@@ -1,0 +1,11 @@
+{
+  "app.containers.StockPage.kho": "Kho",
+  "app.containers.StockPage.tatCaCacKho": "Tất cả các kho",
+  "app.containers.StockPage.danhSach": "Danh sách",
+  "app.containers.StockPage.duoiHanMuc": "Dưới hạn mức",
+  "app.containers.StockPage.trenHanMuc": "Trên hạn mức",
+  "app.containers.StockPage.laDichVu": "Là dịch vụ",
+  "app.containers.StockPage.thuongHieu": "Thương Hiệu",
+  "app.containers.StockPage.groupProduct": "Nhóm sản phẩm",
+  "app.containers.StockPage.tatCaCacNhom": "Tất cả nhóm sản phẩm"
+}

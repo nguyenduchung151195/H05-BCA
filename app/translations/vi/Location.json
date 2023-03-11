@@ -1,0 +1,15 @@
+{
+  "crm.Location.them": "Thêm vị trí",
+  "crm.Location.sua": "Sửa vị trí",
+  "crm.Location.ma": "Mã symbolic",
+  "crm.Location.sapxep": "Sắp xếp",
+  "crm.Location.kieu": "Kiểu",
+  "crm.Location.dulieudialy": "Dữ liệu địa lý:",
+  "crm.Location.kinhdo": "Kinh độ:",
+  "crm.Location.vido": "Vĩ độ:",
+  "crm.Location.chucnangngonngu": "Chức năng phụ thuộc vào ngôn ngữ:",
+  "crm.Location.ten": "Tên:",
+  "crm.Location.tenngan": "Tên ngắn:",
+  "crm.Location.luu": "Lưu",
+  "crm.Location.huy": "Hủy"
+}

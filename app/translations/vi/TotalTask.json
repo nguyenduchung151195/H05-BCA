@@ -1,0 +1,12 @@
+{
+  "task.TotalTask.list": "Danh sách",
+  "task.TotalTask.plan": "Kế hoạch",
+  "task.TotalTask.grattchar": "Lược đồ",
+  "task.TotalTask.timemanagement": "Quản trị thời gian",
+  "task.TotalTask.selected": "----Chọn----",
+  "task.TotalTask.week": "Tuần",
+  "task.TotalTask.month": "Tháng",
+  "task.TotalTask.quarter": "Quý",
+  "task.TotalTask.projectname": "Tên dự án",
+  "task.TotalTask.seaching":"Tìm kiếm"
+}

@@ -1,0 +1,10 @@
+.rstcustom__nodeContent {
+  width: 100%;
+}
+.rstcustom__node:hover{
+  background-color: 'white'
+}
+
+.rstcustom__node{
+  height: 40px !important;
+}

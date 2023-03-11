@@ -1,0 +1,7 @@
+.menu-header svg:first-child {
+    display: none;
+}
+
+.CustomPaperUI {
+    max-width: 100vw !important;
+}

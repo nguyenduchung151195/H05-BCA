@@ -1,0 +1,15 @@
+{
+    "app.container.BSCKPI.criteriasetcriteria": "Tiêu chí & Bộ tiêu chí",
+    "app.container.BSCKPI.plan": "Kế hoạch",
+    "app.container.BSCKPI.addsetcriteria": "Thêm mới bộ tiêu chí",
+    "app.container.BSCKPI.addcriteria": "Thêm tiêu chí",
+
+    "app.container.BSCKPI.manageassessmentteam": "Nhóm đánh giá",
+    "app.container.BSCKPI.manageevaluationprocess": "Quy trình đánh giá",
+    "app.container.BSCKPI.manageprocesstype": "Kiểu quy trình",
+    "app.container.BSCKPI.reviews": "Bảng đánh giá",
+
+    "app.container.BSCKPI.configkpi": "Cấu hình công thức kpi",
+    "app.container.BSCKPI.configkanban": "Cấu hình kanban kpi"
+}
+

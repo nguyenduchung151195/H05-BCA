@@ -1,0 +1,5 @@
+{
+    "app.container.ApprovePage.hasntbeenapproved" : "Chưa được phê duyệt",
+    "app.container.ApprovePage.approved" : "Được phê duyệt",
+    "app.container.ApprovePage.notapproved" : "Không phê duyệt"
+}

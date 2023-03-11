@@ -1,0 +1,134 @@
+table tbody tr td {
+  font-size: 13px !important;
+  line-height: 17px !important;
+  word-wrap: break-word !important;
+  white-space: normal !important;
+  /* max-height: 35px; */
+}
+
+table tbody tr td:last-child {
+  border-bottom: 1px solid rgba(224, 224, 224, 1);
+}
+
+/* table tbody tr:last-child td:last-child {
+  border-bottom: 1px solid rgba(224, 224, 224, 1);
+} */
+table tbody tr td>span {
+  padding: 0 8px !important;
+}
+
+table>thead>tr:first-child {
+  height: 35px !important;
+}
+
+table thead tr th:last-child {
+  border-bottom: 1px solid rgba(224, 224, 224, 1);
+}
+
+.CustomTable>div>div {
+  height: auto !important;
+}
+
+.CustomGridContainer {
+  padding: 0 !important;
+}
+
+/* ListPage */
+/* .CustomlistTable table thead tr th {
+  color: #1d1d1f !important;
+  opacity: 0.9;
+  padding: 0 !important;
+} */
+
+/* .CustomIconListTask {
+  color: #2196f3 !important ;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: #fff;
+  border: 'none';
+} */
+
+.CustomlistTable table tbody :hover.CustomIconListTask {
+  background-color: #2196f3;
+  color: #fff !important;
+}
+
+.CustomlistTableTask table tbody :hover.CustomIconListTask {
+  background: #2196f3 !important;
+  color: #fff !important;
+}
+
+/* .CustomlistTable table tbody :hover {
+  background-color: rgba(0, 0, 0, 0.075);
+} */
+.CustomlistTable table tbody tr {
+  background-color: rgb(255, 255, 255);
+}
+
+.CustomlistTable table tbody tr:hover {
+  background-color: rgba(0, 0, 0, 0.075);
+}
+
+.ktCustom .CustomlistTable table tbody td:hover {
+  /* background-color: rgba(0, 0, 0, 0.075); */
+  border-color: #2196F3
+}
+
+
+.ktCustom .CustomlistTable table thead th {
+  font-weight: bold;
+  text-align: center;
+  padding-left: 0px
+}
+
+.ktCustom2 .CustomlistTable table thead th>div>div {
+  /* center tên cột */
+  justify-content: center;
+  display: flex;
+  color: blue;
+  font-size: 16px
+}
+
+.ktCustom2 .CustomlistTable table thead th {
+  border: 1px solid #e0e0e0;
+  color: blue;
+  font-size: 16px;
+}
+
+.ktCustom2 .CustomlistTable table {
+  border: 1px solid #e0e0e0;
+}
+
+.ktCustom2 .CustomlistTable table tbody td {
+  border: 1px solid #e0e0e0;
+  padding-left: 0px;
+  /* text-align: center; */
+}
+
+.ktCustom3 .CustomlistTable table tbody tr td {
+  /* padding: 0px 0px !important; */
+  padding-left: 0px;
+}
+
+.CustomlistTableTask table tbody :hover {
+  background-color: rgb(212, 212, 212);
+}
+
+.CustomlistTableTask table tbody tr :hover {
+  background-color: rgb(212, 212, 212);
+}
+
+/* 
+.CustomlistTable table tbody tr td {
+  color: #1d1d1f !important;
+  padding: 0;
+}
+
+.CustomlistTable table thead tr th span span input {
+  width: 0 !important;
+} */

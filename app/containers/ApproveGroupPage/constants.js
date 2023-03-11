@@ -1,0 +1,19 @@
+/*
+ *
+ * ApproveGroupPage constants
+ *
+ */
+
+export const DEFAULT_ACTION = 'app/ApproveGroupPage/DEFAULT_ACTION';
+export const GET_APPROVE_GROUPS = 'app/Approves/GET_APPROVE_GROUPS';
+export const GET_APPROVE_GROUPS_SUCCESS = 'app/Approves/GET_APPROVE_GROUPS_SUCCESS';
+export const GET_APPROVE_GROUPS_FAIL = 'app/Approves/GET_APPROVE_GROUPS_FAIL';
+export const ADD_APPROVE_GROUP = 'app/Approves/ADD_APPROVE_GROUPS';
+export const ADD_APPROVE_GROUP_SUCCESS = 'app/Approves/ADD_APPROVE_GROUPS_SUCCESS';
+export const ADD_APPROVE_GROUP_FAIL = 'app/Approves/ADD_APPROVE_GROUPS_FAIL';
+export const DELETE_APPROVE_GROUPS = 'app/Approves/DELETE_APPROVE_GROUPS';
+export const DELETE_APPROVE_GROUPS_SUCCESS = 'app/Approves/DELETE_APPROVE_GROUPS_SUCCESS';
+export const DELETE_APPROVE_GROUPS_FAIL = 'app/Approves/DELETE_APPROVE_GROUPS_FAIL';
+export const UPDATE_APPROVE_GROUP = 'app/Approves/UPDATE_APPROVE_GROUPS';
+export const UPDATE_APPROVE_GROUP_SUCCESS = 'app/Approves/UPDATE_APPROVE_GROUPS_SUCCESS';
+export const UPDATE_APPROVE_GROUP_FAIL = 'app/Approves/UPDATE_APPROVE_GROUPS_FAIL';

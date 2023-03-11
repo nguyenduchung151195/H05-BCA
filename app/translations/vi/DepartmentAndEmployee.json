@@ -1,0 +1,8 @@
+{
+    "app.components.DepartmentAndEmployee.seaching" : "Tìm kiếm",
+    "app.components.DepartmentAndEmployee.employee" : "Cán bộ",
+    "app.components.DepartmentAndEmployee.resultnotfound" : "Không tìm thấy kết quả",
+    "app.components.DepartmentAndEmployee.selected" : "----Chọn----",
+    "app.components.DepartmentAndEmployee.department" : "Phòng ban"
+
+}

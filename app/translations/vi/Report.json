@@ -1,0 +1,11 @@
+{
+    "app.container.Report.report" : "Báo cáo",
+    "app.container.Report.synthesisreport" : "Báo cáo tổng hợp",
+    "app.container.Report.plan" : "Kế hoạch",
+    "app.container.Report.businessopportunityreporting" : "Báo cáo cơ hội kinh doanh",
+    "app.container.Report.aggregateinventoryvalue" : "Tổng hợp giá trị tồn kho",
+    "app.container.Report.aggregatecostbydeparmentanditem" : "Tổng hợp chí phí bộ phận và khoản mục",
+    "app.container.Report.aggregatesalesbycustomeranditem" : "Tổng hợp doanh số theo khách hàng & hàng hóa",
+    "app.container.Report.aggregatesalesbysalesstaff" : "Tổng hợp doanh số theo nhân viên kinh doanh",
+    "app.container.Report.generalbusinesssituation" : "Tổng hợp tình hình kinh doanh"
+}

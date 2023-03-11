@@ -1,0 +1,8 @@
+{
+  "app.container.AddRevenueAndExpenditurePage.internal": "Nội bộ",
+  "app.container.AddRevenueAndExpenditurePage.receipt": "Nhập hàng",
+  "app.container.AddRevenueAndExpenditurePage.sell": "Bán hàng",
+  "app.container.AddRevenueAndExpenditurePage.advances": "Tạm ứng",
+  "app.container.AddRevenueAndExpenditurePage.reimbursement": "Hoàn ứng",
+  "app.container.AddRevenueAndExpenditurePage.pay": "Thanh toán"
+}

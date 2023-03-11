@@ -1,0 +1,56 @@
+#wrapper{
+	position: relative;
+
+}
+.center {
+	left: 50%;
+	-webkit-transform: translate( -50% );
+	-ms-transform: translate( -50% );
+	transform: translate( -50% );
+}
+
+/*===== The CSS =====*/
+.progress{
+	width: 60%;
+	/* height: 280px; */
+}
+.progress .track, .progress .fill{
+	fill: rgba(0, 0, 0, 0);
+	stroke-width: 3;
+	transform: rotate(90deg)translate(0px, -80px);
+}
+.progress .track{
+	stroke: rgb(56, 71, 83);
+}
+.progress .fill {
+	stroke: rgb(255, 255, 255);
+	stroke-dasharray: 219.99078369140625;
+	stroke-dashoffset: -219.99078369140625;
+	transition: stroke-dashoffset 1s;
+}
+.progress.blue .fill {
+	stroke: #2196F3
+}
+.progress.green .fill {
+	stroke:#38913b
+}
+.progress.red .fill {
+	stroke:#F44336
+}
+.progress .value, .progress .text {
+	font-family: 'Open Sans';
+	fill:#000000;
+	text-anchor: middle;
+}
+.progress .text {
+	font-size: 12px;
+}
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+		cursor: default;
+}

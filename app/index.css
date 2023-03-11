@@ -1,0 +1,64 @@
+
+  /* tuantran */
+    .amcharts-amexport-item {
+      border: 1px solid #8c8c8c;
+    }
+    .amcharts-amexport-item.amcharts-amexport-item-level-0 {
+      left: -7px!important;
+      top: -12px!important;
+      background-color: #f1f1f1;
+      border: 1px solid #8c8c8c!important;
+      border-radius: 0px!important;
+      width: 31px!important;
+      height: 30px!important;
+      padding: 0px!important;
+    }
+    .amcharts-amexport-item.amcharts-amexport-item-level-0 > a {
+      color: black;
+    }
+    a.amcharts-amexport-label.amcharts-amexport-label-level-0.amcharts-amexport-item-blank {
+      cursor: pointer;
+    }
+    .amcharts-amexport-left .amcharts-amexport-item {
+      margin: 0px 2px 2px 7px!important;
+    }
+    li.amcharts-amexport-item.amcharts-amexport-item-level-0.amcharts-amexport-item-blank {
+     background-color: white!important;
+    }
+    a.amcharts-amexport-label.amcharts-amexport-label-level-1.amcharts-amexport-item-png.amcharts-amexport-clickable {
+      background-color: white!important;
+    }
+    a.amcharts-amexport-label.amcharts-amexport-label-level-1.amcharts-amexport-item-print.amcharts-amexport-clickable {
+      background-color: white!important;
+    }
+    li.amcharts-amexport-item.amcharts-amexport-item-level-1.amcharts-amexport-item-png {
+      border: 1px solid #8c8c8c!important;
+      border-radius: 0px!important;
+    }
+    a.amcharts-amexport-label.amcharts-amexport-label-level-1.amcharts-amexport-item-png.amcharts-amexport-clickable {
+      color: black;
+      background-color: #f1f1f1;
+      padding: 3px 18px;
+    }
+    li.amcharts-amexport-item.amcharts-amexport-item-level-1.amcharts-amexport-item-print {
+      border: 1px solid #8c8c8c!important;
+      border-radius: 0px!important;
+    }
+    a.amcharts-amexport-label.amcharts-amexport-label-level-1.amcharts-amexport-item-print.amcharts-amexport-clickable {
+      color: black;
+      background-color: #f1f1f1;
+      padding: 3px 18px;
+    }
+  
+.e-rte-toolbar .e-view-side::before,
+.e-rte-dropdown-popup .e-view-side::before {
+  content: '\e34f';
+}
+.e-rte-toolbar .e-insert-code::before,
+.e-rte-dropdown-popup .e-insert-code::before {
+  content: '\e356';
+}
+.e-rte-toolbar .e-table-header::before,
+.e-rte-dropdown-popup .e-table-header::before {
+  content: '\eb03';
+}

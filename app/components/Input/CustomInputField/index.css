@@ -1,0 +1,6 @@
+.e-input-group, .e-input-group.e-control-wrapper {
+    border: 1px solid !important;
+    padding: 8px;
+    margin-top: 8px;
+    border-radius: 5px;
+}

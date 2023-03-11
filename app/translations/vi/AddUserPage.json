@@ -1,0 +1,15 @@
+{
+  "setting.Employee.employeeCode": "Mã cán bộ",
+  "setting.Employee.employeeName": "Tên cán bộ",
+  "setting.Employee.phone": "Số điện thoại",
+  "setting.Employee.employeeInfo": "Thông tin cơ bản",
+  "setting.Employee.sex": "Giới tính",
+  "setting.Employee.idCard": "Số CMND/CCCD",
+  "setting.Employee.address": "Địa chỉ",
+  "setting.Employee.timeJoin": "Ngày kích hoạt",
+  "setting.Employee.organizationUnit": "Đơn vị",
+  "setting.Employee.positions": "Chức vụ",
+  "setting.Employee.note": "Ghi chú",
+  "setting.Employee.species": "Loại",
+  "setting.Employee.warning": "Các trường có dấu * là bắt buộc"
+}

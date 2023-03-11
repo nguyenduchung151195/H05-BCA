@@ -1,0 +1,14 @@
+{
+  "crm.AddSupplierPage.themmoi": "Thêm mới nhà cung cấp",
+  "crm.AddSupplierPage.sua": "Sửa nhà cung cấp",
+  "crm.AddSupplierPage.danhsach": "Danh sách nhà cung cấp",
+  "crm.AddSupplierPage.thongtin": "Thông tin nhà cung cấp",
+  "crm.AddSupplierPage.truongcannhap": "Các trường có dấu * là bắt buộc",
+  "crm.AddSupplierPage.chonanh": "Chọn ảnh đại diện",
+  "crm.AddSupplierPage.themanh": "Thêm ảnh đại diện",
+  "crm.AddSupplierPage.chitiet": "Chi tiết thông tin",
+  "crm.AddSupplierPage.nguoidaidien": "Người đại diện",
+  "crm.AddSupplierPage.phanloaikhachhang": "Phân loại nhà cung cấp",
+  "crm.AddSupplierPage.thongtindaumoi": "Thông tin người đầu mối",
+  "crm.AddSupplierPage.luu": "Lưu"
+}

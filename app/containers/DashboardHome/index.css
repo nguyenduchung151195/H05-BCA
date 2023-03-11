@@ -1,0 +1,63 @@
+.e-title-text {
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.e-float-input.e-control-wrapper:not(.e-error) input:focus~label.e-float-text,
+.e-float-input.e-control-wrapper:not(.e-error) input:valid~label.e-float-text,
+.e-float-input.e-control-wrapper:not(.e-error) input~label.e-label-top.e-float-text,
+.e-float-input.e-control-wrapper:not(.e-error) input[readonly]~label.e-label-top.e-float-text,
+.e-float-input.e-control-wrapper:not(.e-error) input[disabled]~label.e-label-top.e-float-text,
+.e-float-input .e-control-wrapper:not(.e-error) input label.e-float-text.e-label-top,
+.e-float-input.e-control-wrapper.e-bigger:not(.e-error) input:focus~label.e-float-text,
+.e-float-input.e-control-wrapper.e-bigger:not(.e-error) input:valid~label.e-float-text,
+.e-float-input.e-control-wrapper.e-bigger:not(.e-error) input~label.e-label-top.e-float-text,
+.e-float-input.e-control-wrapper.e-bigger:not(.e-error) input[readonly]~label.e-label-top.e-float-text,
+.e-float-input.e-control-wrapper.e-bigger:not(.e-error) input[disabled]~label.e-label-top.e-float-text,
+.e-bigger .e-float-input.e-control-wrapper:not(.e-error) input:focus~label.e-float-text,
+.e-bigger .e-float-input.e-control-wrapper:not(.e-error) input:valid~label.e-float-text,
+.e-bigger .e-float-input.e-control-wrapper:not(.e-error) input~label.e-label-top.e-float-text,
+.e-bigger .e-float-input.e-control-wrapper:not(.e-error) input[readonly]~label.e-label-top.e-float-text,
+.e-bigger .e-float-input.e-control-wrapper:not(.e-error) input[disabled]~label.e-label-top.e-float-text,
+.e-float-input.e-control-wrapper:not(.e-error).e-input-focus input~label.e-float-text,
+.e-float-input.e-control-wrapper.e-bigger:not(.e-error).e-input-focus input~label.e-float-text,
+.e-bigger .e-float-input.e-control-wrapper:not(.e-error).e-input-focus input~label.e-float-text {
+    color: #000000;
+}
+
+#label_EndTime,
+#label_StartTime {}
+
+.e-label {
+    padding-left: 15px
+}
+
+.e-schedule-dialog .e-time-zone-row.e-enable {
+    height: 65px;
+    margin-bottom: 12px;
+    padding-top: 5px;
+}
+
+.e-float-input.e-control-wrapper:not(.e-error) textarea:focus~label.e-float-text,
+.e-float-input.e-control-wrapper:not(.e-error) textarea:valid~label.e-float-text,
+.e-float-input.e-control-wrapper:not(.e-error) textarea~label.e-label-top.e-float-text,
+.e-float-input.e-control-wrapper:not(.e-error) textarea[readonly]~label.e-label-top.e-float-text,
+.e-float-input.e-control-wrapper:not(.e-error) textarea[disabled]~label.e-label-top.e-float-text,
+.e-float-input.e-control-wrapper:not(.e-error) textarea label.e-float-text.e-label-top,
+.e-float-input.e-control-wrapper.e-bigger:not(.e-error) textarea:focus~label.e-float-text,
+.e-float-input.e-control-wrapper.e-bigger:not(.e-error) textarea:valid~label.e-float-text,
+.e-float-input.e-control-wrapper.e-bigger:not(.e-error) textarea~label.e-label-top.e-float-text,
+.e-float-input.e-control-wrapper.e-bigger:not(.e-error) textarea[readonly]~label.e-label-top.e-float-text,
+.e-float-input.e-control-wrapper.e-bigger:not(.e-error) textarea[disabled]~label.e-label-top.e-float-text,
+.e-bigger .e-float-input.e-control-wrapper:not(.e-error) textarea:focus~label.e-float-text,
+.e-bigger .e-float-input.e-control-wrapper:not(.e-error) textarea:valid~label.e-float-text,
+.e-bigger .e-float-input.e-control-wrapper:not(.e-error) textarea~label.e-label-top.e-float-text,
+.e-bigger .e-float-input.e-control-wrapper:not(.e-error) textarea[readonly]~label.e-label-top.e-float-text,
+.e-bigger .e-float-input.e-control-wrapper:not(.e-error) textarea[disabled]~label.e-label-top.e-float-text {
+    color: #000;
+}
+
+.table_dashboard tbody tr td {
+    font-size: 14px !important;
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif !important;
+}

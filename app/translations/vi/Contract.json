@@ -1,0 +1,11 @@
+{
+  "app.containers.Contract.list": "Danh sách",
+  "app.containers.Contract.typeCustomer": "Hợp đồng KH",
+  "app.containers.Contract.typeSupplier": "Hợp đồng NCC",
+  "app.containers.Contract.typeContract": "Loại hợp đồng",
+  "app.containers.Contract.contractPrinciples": "Hợp đồng nguyên tắc",
+  "app.containers.Contract.seasonalContract": "Hợp đồng thời vụ",
+  "app.containers.Contract.listOfContract": "Tất cả hợp đồng",
+  "app.containers.Contract.serviceCycle": "Chu kì dịch vụ",
+  "app.containers.Contract.contractExpired": "Hợp đồng hết hạn"
+}

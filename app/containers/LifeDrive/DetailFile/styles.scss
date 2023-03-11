@@ -1,0 +1,182 @@
+// .nameFolder {
+//   text-overflow: ellipsis;
+//   white-space: nowrap;
+//   overflow: hidden;
+//   position: relative;
+//   user-select: none;
+// }
+
+.input {
+  position: relative;
+  top: 20px;
+}
+
+.details_title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.closeIcon {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.access_list {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.share_management {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--dt-primary-action-stateful, rgb(24, 90, 188));
+}
+
+.from_day {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.view_details {
+  font-size: 13px;
+}
+
+.avatar_cat {
+  width: 30px;
+  height: 30px;
+  margin: 0px 5px;
+  font-size: 10px;
+  background-color: white;
+  color: black;
+  border: 1px solid;
+}
+
+.list_avatar {
+  width: 30;
+  height: 30;
+  margin: 0px 5px 5px;
+}
+
+.edit_icon {
+  cursor: pointer;
+  color: var(--dt-primary-action-stateful, rgb(24, 90, 188));
+  width: 24px;
+}
+
+.folder {
+  height: 50px;
+}
+
+@media only screen and (max-height: 700px) {
+  .details_title {
+    font-size: 10px !important;
+    font-weight: 600 !important;
+  }
+
+  .closeIcon {
+    font-size: 16px !important;
+    font-weight: 600 !important;
+  }
+
+  .access_list {
+    font-size: 8px;
+    font-weight: 600;
+  }
+
+  .share_management {
+    font-size: 8px !important;
+    font-weight: 600 !important;
+  }
+
+  .from_day {
+    font-size: 7px !important;
+    font-weight: 600 !important;
+  }
+
+  .view_details {
+    font-size: 8px !important;
+  }
+
+  .avatar_cat {
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+  .list_avatar {
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+  .edit_icon {
+    width: 14px !important;
+  }
+
+  .folder {
+    height: 30px !important;
+  }
+}
+
+@media only screen and (max-height: 550px) {
+  .details_title {
+    font-size: 8px !important;
+    font-weight: 600 !important;
+  }
+
+  .closeIcon {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+  }
+
+  .access_list {
+    font-size: 7px !important;
+    font-weight: 600 !important;
+  }
+
+  .share_management {
+    font-size: 7px !important;
+    font-weight: 600 !important;
+  }
+
+  .from_day {
+    font-size: 6px !important;
+    font-weight: 600 !important;
+  }
+
+  .view_details {
+    font-size: 7px;
+  }
+
+  .avatar_cat {
+    width: 23px !important;
+    height: 23px !important;
+  }
+
+  .list_avatar {
+    width: 23px !important;
+    height: 23px !important;
+  }
+
+  .edit_icon {
+    width: 12px !important;
+  }
+
+  .folder {
+    height: 28px !important;
+  }
+
+}
+.color-text{
+  color: rgb(150, 149, 149);
+}
+.separate-line {
+  height: 30px;
+  width: 1px;
+  display: block;
+  background-color: #ccc;
+}
+.bottom-line{
+  height: 2px;
+  width: 100%;
+  display: block;
+  background-color: #ccc;
+}

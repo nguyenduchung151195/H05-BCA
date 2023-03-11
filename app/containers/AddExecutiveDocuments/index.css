@@ -1,0 +1,7 @@
+
+.CustomIconRequired label, .CustomRequiredLetter label{
+    color: #000;
+}
+.CustomRequiredLetter label{
+    font-weight: bold;
+}

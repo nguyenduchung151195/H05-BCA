@@ -1,0 +1,204 @@
+#idMenuFilesManager {
+  ul {
+    // padding: 0;
+    min-width: 250px;
+    // border: 1px solid;
+  }
+}
+
+.DialogVoice>div:nth-child(2) {
+  border-radius: 20px;
+}
+
+// stle css iframe don't copy
+
+
+#containerIframe {
+  position: relative;
+
+  #overlay {
+    // phủ 1 lớp lên iframe
+    width: calc(100% - 50px);
+    height: 100%;
+    z-index: 1;
+    // background-color:rgba(255,255,0,0.1);
+    background-color: rgba(255, 255, 0, 0);
+  }
+
+  #overlay,
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}
+
+.nameFolder {
+  width: 75%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  position: relative;
+  user-select: none;
+  color: '#3C4043'
+
+}
+
+.nameFile {
+  text-align: center;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+
+}
+
+.svg_icons {
+  transform: scale(1.5);
+  margin-left: 15px;
+  cursor: pointer;
+
+}
+
+.nameFolderList {
+  width: 174px;
+  line-height: 4;
+  color: '#3C4043'
+}
+
+.show_icons {
+  cursor: pointer;
+  width: 28px;
+}
+
+.main_title {
+  margin-Top: 6px !important;
+  height: 36px !important;
+  .routerFolder{
+    font-weight: bold;
+    margin-Top:2px
+  }
+}
+
+.show_icons_search {
+  font-size: 16px;
+  height: 28px;
+  margin: 0px auto;
+  border: solid 1px #ccc;
+  border-radius: 10px;
+  padding-left: 10px;
+  width: 250px;
+
+  input {
+    padding-right: 30px;
+    padding-left: 30px;
+
+  }
+}
+
+.iconsOptionSearch {
+  cursor: pointer;
+  margin-left: -27px;
+}
+.iconsSearch {
+  position: relative;
+    left: 27px;
+    margin-top: 2px;
+}
+.btnOptinFileOCR, .btnOptinFileOCR:active, .btnOptinFileOCR button:active{
+  background: transparent;
+}
+.new_folder {
+  height: 50px;
+  display: flex;
+  line-height: 4;
+  padding-left: 4px;
+}
+
+.imgFile {
+  height: 50px;
+
+}
+
+
+@media only screen and (max-height: 700px) {
+  .nameFolderList {
+    width: 60px !important;
+    line-height: 3;
+  }
+
+  .imgFile {
+    height: 35px !important;
+  }
+
+  .new_folder {
+    height: 35px !important;
+    display: flex !important;
+  }
+
+  .main_title {
+    margin-Top: 4px !important;
+    height: 24px !important;
+  }
+
+  .show_icons {
+    width: 18px !important;
+  }
+
+  .show_icons_search {
+    width: 180px !important;
+    height: 18px !important;
+    font-size: 14px !important;
+    width: 210px !important;
+  }
+
+  .svg_icons {
+    width: 18px !important;
+  }
+}
+
+@media only screen and (max-height: 550px) {
+  .nameFolderList {
+    width: 60px !important;
+    line-height: 3;
+  }
+
+  .new_folder {
+    height: 30px !important;
+    display: flex !important;
+  }
+
+  .main_title {
+    margin-Top: 0px !important;
+    height: 22px !important;
+  }
+
+  .imgFile {
+    height: 30px !important;
+  }
+
+  .show_icons {
+    width: 16px !important;
+  }
+
+  .show_icons_search {
+    width: 170px !important;
+    font-size: 12px !important;
+    width: 200px !important;
+  }
+
+  .svg_icons {
+    width: 16px !important;
+  }
+}
+
+.selectPermission {
+  appearance: auto !important;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+
+  &:focus {
+    outline: none;
+  }
+}

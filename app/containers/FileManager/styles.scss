@@ -1,0 +1,116 @@
+.custom-swal {
+  z-index: 3;
+  max-width: 600px;
+  width: auto;
+  height: auto;
+  max-height: 600px;
+}
+
+.swal-overlay {
+  z-index: 20;
+}
+
+.swal-document {
+  // max-height: 75vh;
+  // max-width: 75vw;
+  width: 80vw;
+  height: 75vh;
+}
+// .swal-modal {
+//   width: 60vw;
+//   height: auto;
+// }
+// .swal-title {
+  // text-align: left;
+  // background-color: rgb(37, 150, 202);
+  // color: #fff;
+
+  // &:first-child{
+  //   margin: 0;
+  // }
+  
+// }
+
+.e-contextmenu {
+  color: black !important;
+  font-weight: 500 !important;
+}
+.e-search-wrap{
+  min-width: 300px;
+  width: 350px;
+  overflow: hidden;
+  .e-valid-input{
+    padding: 10px;
+    overflow: hidden;
+  }
+}
+#filemanager_search {
+  width: 70%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+input.e-input::placeholder, input#filemanager_search::placeholder {
+  color: 'black'!important;
+  opacity: 1 !important;
+}
+.e-filemanager .e-address .e-search-wrap .e-input-group.e-control-wrapper:not(.e-success){
+  background-color: white;
+ #filemanager_search::placeholder {
+    color: 'black'!important;
+    opacity: 1 !important;
+    font-weight: 600;
+  }
+}
+.e-clear-icon{
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-85%);
+}
+
+#filemanager_navigation{
+  flex-basis: 12.8964% !important;
+}
+
+
+.swal-modal{
+  width: 40%;
+  height: auto;
+  .swal-title{
+    text-align: center;
+    background-color: rgb(37, 150, 202);
+    color: #fff;
+
+    &:first-child{
+      margin: 0;
+    }
+  }
+}
+
+.e-menu-item{
+  .e-menu-icon{
+    margin-top: -7px;
+  }
+}
+.e-checkbox-wrapper{
+  position: relative;
+  .e-frame{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+.file-manager-doc{
+  overflow-x: hidden;
+  overflow-y: auto;
+  height:calc(80vh - 140px);
+  .docx-wrapper{
+    position: relative;
+    width: 100%;
+    .docx{
+      width: 100% !important;
+      padding: 10pt !important;
+    }
+  }
+}

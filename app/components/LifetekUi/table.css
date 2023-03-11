@@ -1,0 +1,39 @@
+#report-task > table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  color: black;
+}
+
+#report-task > td,
+#report-task > th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+#report-task > th {
+  /* background: green; */
+  color: black;
+}
+/* tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .task-later {
+    background: palevioletred;
+  }
+  .task-later-task {
+      background: orange;
+  } */
+.task-later-task > td:first-child {
+  background: white;
+}
+/* .task-plan {
+      background: yellowgreen;
+  } */
+.border_table {
+  border: 1px solid black;
+}
+.border_table td {
+  border: 1px solid black;
+}

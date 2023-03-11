@@ -1,0 +1,26 @@
+.rst__moveHandle {
+  background: linear-gradient(45deg, #2196f3, #2196f37a) !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+.rst__rowContents {
+  box-shadow: none !important;
+  background: linear-gradient(45deg, #2196f369, #2196f36e) !important;
+  justify-content: flex-start !important;
+  min-width: 300px !important;
+}
+.rst__rowLabel {
+  padding: 20px !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.rst__rowTitleWithSubtitle {
+  height: 1.2rem !important;
+}
+.rst__collapseButton {
+  background: #f44336 !important;
+}
+.rst__rowSubtitle {
+  font-size: 100% !important;
+}

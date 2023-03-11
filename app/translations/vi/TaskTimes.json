@@ -1,0 +1,10 @@
+{
+  "task.TaskTimes.khancap": "Khẩn cấp",
+  "task.TaskTimes.khongkhancap": "Không Khẩn cấp",
+  "task.TaskTimes.quantrong": "Quan Trọng",
+  "task.TaskTimes.khongquantrong": "Không Quan trọng",
+  "task.TaskTimes.ngaybatdau": "Ngày bắt đầu",
+  "task.TaskTimes.ngayketthuc": "Ngày kết thúc",
+  "task.TaskTimes.con": "Còn",
+  "task.TaskTimes.ngay": "ngày"
+}

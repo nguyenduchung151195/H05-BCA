@@ -1,0 +1,16 @@
+{
+  "crm.AddSalesQuotation.baogiabanhang": "Báo giá bán hàng",
+  "crm.AddSalesQuotation.donhangthanhcong": "Đơn hàng thành công",
+  "crm.AddSalesQuotation.danhsach": "Danh sách",
+  "crm.AddSalesQuotation.xuatfile": "Xuất file",
+  "crm.AddSalesQuotation.bieumau": "Biểu mẫu",
+  "crm.AddSalesQuotation.thuchien": "Thực hiện",
+  "crm.AddSalesQuotation.yeucaupheduyet": "Yêu cầu Phê Duyệt",
+  "crm.AddSalesQuotation.ten": "Tên",
+  "crm.AddSalesQuotation.nhompheduyet": "Nhóm phê duyệt động",
+  "crm.AddSalesQuotation.chonbieumau": "Chọn biểu mẫu",
+  "crm.AddSalesQuotation.hoanthanhdonhang": "Hoàn thành đơn hàng",
+  "crm.AddSalesQuotation.guimailbaogia": "Gửi mail-Báo giá",
+  "crm.AddSalesQuotation.hopdong": "Hợp đồng",
+  "crm.AddSalesQuotation.yeucauxuathang": "Yêu cầu xuất hàng"
+}

@@ -1,0 +1,9 @@
+{
+    "app.container.CrmCollection.businessopportunities" : "Cơ hội kinh doanh",
+    "app.container.CrmCollection.exchangeofagreement" : "Trao đổi thỏa thuận",
+    "app.container.CrmCollection.costestimates" : "Dự toán chi phí",
+    "app.container.CrmCollection.salesquotation" : "Báo giá/Bán hàng",
+    "app.container.CrmCollection.contract" : "Hợp đồng",
+    "app.container.CrmCollection.bill" : "Hóa đơn",
+    "app.container.CrmCollection.purchase" : "Mua hàng(PO)"
+}
